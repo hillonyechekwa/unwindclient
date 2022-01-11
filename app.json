@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "restupapp",
+    "slug": "restupapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "restupapp"
+}
